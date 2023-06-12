@@ -1,2 +1,2 @@
 # Omporshic.exe
-new c++ malware :D
+Stolen by Peeuser121 (Windows 8 Fan!)
